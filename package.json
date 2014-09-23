@@ -12,11 +12,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/johnhamelink/hubot-capsule.git"
+    "url": "git://github.com/hubot-scripts/hubot-capsule.git"
   },
 
   "bugs": {
-    "url": "https://github.com/johnhamelink/hubot-capsule/issues"
+    "url": "https://github.com/hubot-scripts/hubot-capsule/issues"
   },
 
   "dependencies": {
